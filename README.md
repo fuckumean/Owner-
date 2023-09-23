@@ -1,4 +1,4 @@
-# copay
+privet# copay
 Copay wallet is now Bitpay Wallet. Repo at https://github.com/bitpay/wallet
 
 Please migrate to "Bitpay Wallet" apps on the app stores. Download links at: https://bitpay.com/wallet/
